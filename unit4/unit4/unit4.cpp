@@ -1,6 +1,3 @@
-// unit4.cpp : 定义控制台应用程序的入口点。
-//
-
 #include "stdafx.h"
 #include "../../unit2/unit2/unit2.cpp"//以向量为基类，派生出栈模板类
 #include "../../unit3/unit3/unit3.cpp"//以List为基类
